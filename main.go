@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	"github.com/tarotaro0/exp-mm-repo/services/foo"
 )
 
 func main() {
-	fmt.Println("Hello, World.")
+	foo.HelloFoo()
 }
