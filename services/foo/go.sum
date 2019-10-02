@@ -1,0 +1,4 @@
+github.com/tarotaro0/exp-mm-repo v1.0.1 h1:bFwWSIq6yIGQ5ZpXya9Xin30nkGA3cCXYk2G/GbiuDs=
+github.com/tarotaro0/exp-mm-repo v1.0.1/go.mod h1:cgPrveskvPedqouyO3Fa+g4WmTy6YdJt6skZ/47K2l4=
+github.com/tarotaro0/exp-mm-repo/services/bar v1.0.0/go.mod h1:QGr4P16VpbBl0sRbxsVwsTYc5OI0f7xWfkvNwtKgL4s=
+github.com/tarotaro0/exp-mm-repo/services/foo v1.1.0/go.mod h1:jiPArv0A9W9gGhTvBec9JgQVfEc7uuN4/xC4F89iXh4=
