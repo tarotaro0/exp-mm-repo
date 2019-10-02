@@ -1,2 +1,4 @@
 github.com/tarotaro0/exp-mm-repo/services/foo v1.0.0 h1:bimQfLAARXP4wihL8QiIAad0jH9gxqm5TAG5Pdy4eI8=
 github.com/tarotaro0/exp-mm-repo/services/foo v1.0.0/go.mod h1:bXyyZ+5xd/ZDGgiHm9W2OB9TGQkuKC4ed8kLNCyJt8c=
+github.com/tarotaro0/exp-mm-repo/services/foo v1.1.0 h1:udWySfSafdH+mBOPyDTcOWaWpubGSg6UDBKvLGuwTRA=
+github.com/tarotaro0/exp-mm-repo/services/foo v1.1.0/go.mod h1:jiPArv0A9W9gGhTvBec9JgQVfEc7uuN4/xC4F89iXh4=
